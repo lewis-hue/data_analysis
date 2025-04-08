@@ -39,4 +39,13 @@ The bar graph displays `Customer Lifetime Value (CLV)` for each customer, which 
 
 # Correlation between TotalPurchase, CLV, and Frequency
 ![TotalPurchase, CLV, and Frequency](https://github.com/lewis-hue/data_analysis/blob/main/Correlation%20Co-efficients%20and%20P-values.png)
+
+### Scatterplot: TotalPurchase vs Frequency
+![TotalPurchase vs Frequency](https://github.com/lewis-hue/data_analysis/blob/main/TotalPurchase%20vs%20Frequency.png)
+
+### Scatterplot: TotalPurchase vs CLV
+![TotalPurchase vs CLV](https://github.com/lewis-hue/data_analysis/blob/main/TotalPurchase%20vs%20CLV.png)
+
+### Scatterplot: Frequency vs CLV
+![Frequency vs CLV](https://github.com/lewis-hue/data_analysis/blob/main/Frequency%20vs%20CLV.png)
 ```{r}
