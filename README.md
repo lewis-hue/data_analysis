@@ -36,6 +36,7 @@ The bar graph displays `Customer Lifetime Value (CLV)` for each customer, which 
 ### Correlation Co-efficients and P-values
 
 #### TotalPurchase vs Frequency
+
+# Correlation between TotalPurchase, CLV, and Frequency
+![TotalPurchase, CLV, and Frequency](https://github.com/lewis-hue/data_analysis/blob/main/Correlation%20Co-efficients%20and%20P-values.png)
 ```{r}
-# Correlation between TotalPurchase and Frequency
-cor.test(data$TotalPurchase, data$Frequency)
